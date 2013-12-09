@@ -1,4 +1,4 @@
-a1a9561b5bc259839e5456d1704025de *DESCRIPTION
+e912e97f670fc4c92c031f2ac926c1ff *DESCRIPTION
 f35991a8f622053178e39e767dd5752a *NAMESPACE
 81b572e7f199fb0bae33551e9835eaf2 *R/boot.compute.fi.fj.R
 09b8c4aff73e8d1046f71c7a119f74a7 *R/print.tepBADA.inference.battery.R
@@ -11,10 +11,11 @@ bb9b0848d1377483b051345e9e7d6bc7 *R/print.tinpoComponents.R
 d2ea2cf16288105028f27b09a144649d *R/print.tinpoOmni.R
 d968dd89fded6d5579d5b251e807738d *R/print.tinpoOutput.R
 0fd9cd51954835b98ced29adc440ddb1 *R/print.tinpoR2.R
-a5ad70476e4d8de0855865f18f25e155 *R/tepBADA.inference.battery.R
-556280150baf87ce5d9ae416353733c3 *R/tepDICA.inference.battery.R
-9fed788acc1c81fbcc320954c3829411 *R/tinGraphs.R
-d9b59685751cff1ffdf804bf7a79fc69 *man/TInPosition-package.Rd
+101939c0d3873fc3c5d19dda25102bbc *R/tepBADA.inference.battery.R
+d2237544e2172ee05d7334986cfb1750 *R/tepDICA.inference.battery.R
+c7649fbf43c71e04ab1f116b720ba3a4 *R/tinGraphs.R
+7fdb378cc756acdab5422f51ba2849c8 *inst/CITATION
+53704a265b645f152abe71d8446ba243 *man/TInPosition-package.Rd
 8c724f949840803b0d93120ec492724e *man/boot.compute.fi.fj.Rd
 89965a0f1881fc61dd42d6582129e5b7 *man/print.tepBADA.inference.battery.Rd
 81be4e943867d119951c4ef94794147f *man/print.tepDICA.inference.battery.Rd
@@ -26,6 +27,6 @@ c76461e5a6a086aa5fe89705bd8719bc *man/print.tinpoLOO.Rd
 3db3dd5f9d01ce6231ee64d2ffddb4a8 *man/print.tinpoOmni.Rd
 c2c64520a010d3053ac009b6801cc377 *man/print.tinpoOutput.Rd
 0ce64e12258a7b415962f4247b08e281 *man/print.tinpoR2.Rd
-a0052b0a2c2b8aa4eff4486d6164021e *man/tepBADA.inference.battery.Rd
-f653672bf59a770f76d88991d2191358 *man/tepDICA.inference.battery.Rd
+867c946d54fa7b5525c400fade26fe0d *man/tepBADA.inference.battery.Rd
+465617b45f2b3c9dbcd8475814603685 *man/tepDICA.inference.battery.Rd
 e303c8d4a5f43a40f2438a470221ad3a *man/tinGraphs.Rd

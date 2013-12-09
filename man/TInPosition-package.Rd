@@ -13,9 +13,9 @@ TInPosition provides multiple forms of inference tests for the \code{\link{TExPo
 \tabular{ll}{
 Package: \tab TInPosition\cr
 Type: \tab Package\cr
-Version: \tab 0.10.4\cr
-Date: \tab 2013-06-04\cr
-Depends: \tab R (>=2.15.0), prettyGraphs  (>= 2.0.0), ExPosition (>= 2.0.0), TExPosition  (>= 2.0.0), InPosition\cr
+Version: \tab 0.13.6\cr
+Date: \tab 2013-12-09\cr
+Depends: \tab R (>=2.15.0), prettyGraphs (>= 2.1.4), TExPosition (>= 2.6.10), ExPosition (>= 2.8.19), InPosition (>= 0.12.7)\cr
 License: \tab GPL-2\cr
 URL: \tab http://www.utdallas.edu/~derekbeaton/software/ExPosition\cr
 }
